@@ -89,7 +89,7 @@ for n in range(df.shape[0]) :
 
             print(sigunguCd ,bjdongCd, bun, ji)
 
-            serviceKey = 'wk52r5dzJE%2B%2FE1%2FNlTeXny1gQsMPvFhodPk7aIb6Dm%2FI4nN4MJhEqRN9uAxsH5P7HbvEeD%2BHHFmC8TGr6RIp0A%3D%3D'
+            serviceKey = ''
 
             url = f'http://apis.data.go.kr/1613000/BldRgstService_v2/getBrRecapTitleInfo?serviceKey={serviceKey}&'
             queryParams = urlencode({quote_plus('sigunguCd'): sigunguCd,
