@@ -1,0 +1,9 @@
+pandas
+jupyter
+tensorflow == 2.7.0
+keras      == 2.7.0
+numpy
+opencv-python
+matplotlibmatplotlib
+Pillow
+scipy
