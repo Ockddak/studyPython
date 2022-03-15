@@ -1,9 +1,9 @@
 pandas
 jupyter
-tensorflow == 2.7.0
-keras      == 2.7.0
+tensorflow == 2.4.0
+keras      == 2.4.0
 numpy
 opencv-python
-matplotlibmatplotlib
+matplotlib
 Pillow
 scipy
